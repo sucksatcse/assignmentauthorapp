@@ -7,9 +7,9 @@ import SentimentVeryDissatisfiedIcon from "@mui/icons-material/SentimentVeryDiss
 import SentimentDissatisfiedIcon from "@mui/icons-material/SentimentDissatisfied";
 
 const commentsData = [
-  { id: 1, author: "Author Name", date: "10 February 2025", text: "This is a sample comment 1.", likes: 12, dislikes: 1 },
-  { id: 2, author: "Author Name", date: "10 February 2025", text: "This is a sample comment 2.", likes: 8, dislikes: 0 },
-  { id: 3, author: "Author Name", date: "10 February 2025", text: "This is a sample comment 3.", likes: 10, dislikes: 2 },
+  { id: 1, author: "boinga", date: "10 February 2025", text: "he is chatgaya.", likes: 12, dislikes: 1 },
+  { id: 2, author: "kallu", date: "10 February 2025", text: "he is black.", likes: 8, dislikes: 0 },
+  { id: 3, author: "challu", date: "10 February 2025", text: "chele pura shada.", likes: 10, dislikes: 2 },
 ];
 
 
